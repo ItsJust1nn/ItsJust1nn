@@ -1,4 +1,3 @@
-- 👋 Hi, im @ItsJust1nn
-- 👀 I’m interested in hardware engineering and programming 
-- 🌱 I’m currently learning LUA
-- 📫 How to reach me? Instagram: wrdJus - Discord: ! J#0001 - Snapchat: wrdJus - Twitter - wrdJus
+- 👋 Hi everyone, im 504Jus
+- 💻 I’m a programmer of 5+ years in Roblox
+- 📫 How to reach me? Discord: @504Justin
